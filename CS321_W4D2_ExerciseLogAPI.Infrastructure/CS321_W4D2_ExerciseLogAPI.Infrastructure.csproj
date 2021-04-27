@@ -13,4 +13,8 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.14" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CS321_W4D2_ExerciseLogAPI.Core\CS321_W4D2_ExerciseLogAPI.Core.csproj" />
+  </ItemGroup>
+
 </Project>
